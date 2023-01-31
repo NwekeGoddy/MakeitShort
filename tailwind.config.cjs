@@ -15,6 +15,7 @@ module.exports = {
         DarkBlue: "hsl(255, 11%, 22%)",
         DarkViolet: "hsl(260, 8%, 14%)",
         LightPurple: "#3a3053",
+        Lightburple: "#3a3053",
       },
     },
 
